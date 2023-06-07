@@ -1,5 +1,5 @@
 # Hey there! I'm Carlos Morán 👋
-A passionate learner of computer science and aspiring game developer.<br>I’m currently studying Software Developer in 42Malaga.<br>I'm currently learning and honing my C programming skills by working on 42NetWork projects.
+A passionate learner of computer science and aspiring game developer.<br>I’m currently studying Software Developer in 42Malaga.<br>I'm currently learning and honing my C/C++ programming skills by working on 42NetWork projects.
 [![cmoran-l's 42 stats](https://badge.mediaplus.ma/binary/cmoran-l?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # 💻 Tech Stack:
