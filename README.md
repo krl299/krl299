@@ -1,19 +1,5 @@
-<!--
-**krl299/krl299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-Hey there! 👋 I'm Carlos Morán, a passionate learner of computer science and aspiring game developer.<br>I’m currently studying Software Developer in 42Malaga.<br>I'm currently learning and honing my C programming skills by working on 42NetWork projects.
+Hey there! 👋
+I'm Carlos Morán, a passionate learner of computer science and aspiring game developer.<br>I’m currently studying Software Developer in 42Malaga.<br>I'm currently learning and honing my C programming skills by working on 42NetWork projects.
 
 
 # 💻 Tech Stack:
@@ -27,6 +13,4 @@ Hey there! 👋 I'm Carlos Morán, a passionate learner of computer science and 
 ![](https://github-profile-trophy.vercel.app/?username=krl299&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krl299&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
