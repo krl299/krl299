@@ -1,4 +1,4 @@
-# I'm Carlos Morán
+# Hey there! I'm Carlos Morán 👋
 A passionate learner of computer science and aspiring game developer.<br>I’m currently studying Software Developer in 42Malaga.<br>I'm currently learning and honing my C programming skills by working on 42NetWork projects.
 
 
