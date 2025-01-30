@@ -1,3 +1,4 @@
+<!--
 # Hey there! I'm Carlos Morán 👋
 A passionate learner of computer science and aspiring game developer.<br>I’m currently studying Software Developer in 42Malaga.<br>I'm currently learning and mastering my C/C++ programming skills working on 42NetWork projects.
 [![cmoran-l's 42 stats](https://badge42.vercel.app/api/v2/clilldi7a002108m9pzig17qt/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
@@ -9,7 +10,7 @@ A passionate learner of computer science and aspiring game developer.<br>I’m c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krl299&theme=blueberry&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krl299&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<!--
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krl299&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
